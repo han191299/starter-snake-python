@@ -1,4 +1,5 @@
-# Battlesnake Python Starter Project
+# Battlesnake Python Starter Project 
+# We used minimax algorithm
 
 An official Battlesnake template written in Python. Get started at [play.battlesnake.com](https://play.battlesnake.com).
 
